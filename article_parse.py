@@ -23,15 +23,14 @@ def readArticleCollectionFile(site, filename, c):
 		f.write('<article>\n')
 		f.write("<class>" + str(c) + "</class>\n")
 		f.write('<title>' + title + '</title>\n')
-		f.write('<text>' + text + '</text>\n')
+		f.write('<text>\n' + text + '</text>\n')
 		#f.write('<keywords>' + str(keywords) + '</keywords>\n')
 		#f.write('<summary>' + summary + '</summary>\n')
 		f.write("</article>\n")
 		i = i + 1
-		if i > 100:
+		if i > 10:
 			break
 	f.close()
 
 
-readArticleCollectionFile("http://theonion.com", "onion", 0)
-#readArticleCollectionFile("http://nytimes.com", "nytimes", 0)
+readArticleCollectionFile("http://www.cnn.com", "neg_test.txt", 1)

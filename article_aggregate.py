@@ -113,14 +113,14 @@ def decideFrequencyWords(words, nowords):
 		else:
 			wordFreq[word[0]] = False
 
+	f = open("word_freq.txt", "w")
+	for word, freq in wordFreq.iteritems():
+		f.write(word + " " + str(freq) + "\n")
+	f.close()
+
 	return wordFreq
 
 wordFreq = decideFrequencyWords(words, nowords)
-
-f = open("word_freq.txt", "w")
-for word in wordFreq:
-	f.write(word[0] + " " + str(word[1]) + "\n")
-f.close()
 
 def getPatterns(pos_articles, neg_articles, wordFreq):
 	patterns = {}
@@ -165,6 +165,7 @@ def getPatterns(pos_articles, neg_articles, wordFreq):
 				for ngram in ngrams:
 					pattern = []
 					usefulPattern = False
+					achievablePattern = True
 
 					for word in ngram:
 						word = word.lower()
