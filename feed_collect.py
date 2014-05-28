@@ -1,3 +1,7 @@
+import sys
+sys.path.insert(1, '/usr/local/lib/python2.7/site-packages')
+sys.path.insert(1, '/usr/local/lib/python2.7/site-packages/lxml-3.3.4-py2.7-macosx-10.9-x86_64.egg/lxml')
+
 import feedparser
 from goose import Goose
 #from textblob import TextBlob
@@ -11,10 +15,9 @@ def extractArticlesFromFeed(url):
 	d = feedparser.parse(url)
 
 	feedName = d.feed.title.replace(' ', '_')
-	date = d.feed.published.replace(' ', '_').replace(':', '_').replace(',', '_')
 
 	# Open file for writing the article contents
-	f = open(feedName + '_' + date, 'w')
+	f = open(feedName, 'w')
 
 	for entry in d.entries:
 		# For each feed entry
@@ -36,4 +39,7 @@ def extractArticlesFromFeed(url):
 	f.close()
 
 # Example feed for The Onion
-extractArticlesFromFeed("http://feeds.theonion.com/theonion/daily")
+#extractArticlesFromFeed("http://feeds.theonion.com/theonion/daily")
+extractArticlesFromFeed("http://dailycurrant.com/feed")
+extractArticlesFromFeed("http://www.newsbiscuit.com/feed/")
+extractArticlesFromFeed("http://www.thedailymash.co.uk/feed")
