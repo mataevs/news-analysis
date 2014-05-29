@@ -28,9 +28,9 @@ def readArticleCollectionFile(site, filename, c):
 		#f.write('<summary>' + summary + '</summary>\n')
 		f.write("</article>\n")
 		i = i + 1
-		if i > 10:
+		if i > 40:
 			break
 	f.close()
 
 
-readArticleCollectionFile("http://www.cnn.com", "neg_test.txt", 1)
+readArticleCollectionFile("http://www.private-eye.co.uk/", "pos_test2.txt", 0)

@@ -69,6 +69,8 @@ for line in open("features_pos_test.txt"):
 	i = i + 1
 	test.append(features)
 
+print(str(i) + " positive test cases\n")
+
 i = 0
 for line in open("features_neg_test.txt"):
 	line = line.rstrip("\n")
@@ -81,6 +83,8 @@ for line in open("features_neg_test.txt"):
 	print(i)
 	i = i + 1
 	test.append(features)
+
+print(str(i) + " negative test cases\n")
 
 results = []
 for features in test:

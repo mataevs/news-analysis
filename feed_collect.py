@@ -8,7 +8,7 @@ from goose import Goose
 
 # Takes as input a feed address and returns a file with the articles
 # contained in the feed.
-def extractArticlesFromFeed(url):
+def extractArticlesFromFeed(url, c):
 	g = Goose()
 
 	# Parse the URL feed
@@ -28,18 +28,15 @@ def extractArticlesFromFeed(url):
 		text = article.cleaned_text.encode('ascii', 'ignore').strip()
 
 		# Write the article title and body in the file
-		f.write("<article>\n")
-		f.write(title + '\n')
-		f.write(text + '\n')
-		f.write("</article>\n")
 
-		#txt = TextBlob(text)
-		#print(title + " " + str(txt.sentiment))
+		f.write('<article>\n')
+		f.write("<class>" + str(c) + "</class>\n")
+		f.write('<title>' + title + '</title>\n')
+		f.write('<text>\n' + text + '</text>\n')
+		f.write("</article>\n")
 
 	f.close()
 
 # Example feed for The Onion
 #extractArticlesFromFeed("http://feeds.theonion.com/theonion/daily")
-extractArticlesFromFeed("http://dailycurrant.com/feed")
-extractArticlesFromFeed("http://www.newsbiscuit.com/feed/")
-extractArticlesFromFeed("http://www.thedailymash.co.uk/feed")
+extractArticlesFromFeed("http://www.enduringvision.com/ev_rss.xml", 0)
