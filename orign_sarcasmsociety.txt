@@ -1,0 +1,64 @@
+<article>
+<class>1</class>
+<title>Apple takes aim at Android at WWDC 2014 iOS 8 reveal</title>
+<text>
+An Apple event wouldn’t be an Apple event without them trying to take shots at the competition. After going over the (awesome-looking) new changes to Mac OS X Yosemite, Apple decided to talk about iOS 8 and all the new changes they’re planning to bring. But before they dove into the meaty bits, they took a quick few minutes to talk about none other than Android.
+
+Tim Cook had no problem ridiculing Android from several different angles. For starters, he says most of the folks who first bought an Android phone and then bought an iPhone afterward basically admitted to making a big mistake. He used that infamous 97% customer satisfaction value to back that point up, natch.
+Timmy also went on to cite the other typical numbers folks use to bash Android. He reminded us that only 9% of Android’s install base is on the latest version compared to 89% for iOS. And of those running Android, over a third of them are still running a version from over four years ago.
+
+He cheated a bit there: the only way he could have come to that conclusion is if he lumped Ice Cream Sandwich and Gingerbread together, with the former being just about three years old. That’s what the numbers found over at the Android Platform Distributions site tell us, anyway.
+
+And let’s not forget to mention the fact that Gingerbread is only 3.5 years old — not a far cry from 4, but his statement is certainly not factual. Regardless, the point stands and stings: a ton of people are still on what can be seen as archaic versions of Android.
+
+He bent the truth a little by claiming that those on older versions of Android don’t get new features. We all know that’s not quite true considering Google has a habit of delivering new features using apps and updates to Google Play Services, some of which are compatible with all versions of Android dating back to Froyo. Also, last we checked not all iPhones and iPads got all the latest features in those iOS upgrades (we’re looking at you, Siri).
+Finally, Cook didn’t disappoint by pulling out the “hot” new buzzword that everyone uses to bash Android — mobile malware, and how Android is subject to 99% of it (though how much of it actually affects end users is an entirely different matter all together).
+We’re not surprised that Apple is looking to bash Android into the ground at every opportunity they can get. That’s marketing and business, and it isn’t quite as taboo as when the company was still being run by the late Steve Jobs.
+But there’s something to be said about plucking obscure numbers out of the air in selective fashion while dodging the ones that truly matter — Android’s 79% of the global smartphone market share as of January 2014.
+Sure, Android’s popularity may be more about accessibility (namely, its ability to meet the price point of any budget) than anything else, but at the end of the day it really doesn’t matter how Android ascended to the throne: it only matters that it got there.
+Truth be told, iOS 8 looks quite nice. Apple’s finally crafted an upgrade that feels more evolutionary than iterative, and it’s the first time in a long time that it doesn’t feel like they’re playing catch-up to Android. But it’s going to take a lot more than new features, petty shots at the competition and skewed information to recapture the huge sector of the market they lost while they were lollygagging for the past few years.
+
+The ball is in Google’s court now, and a Google event wouldn’t be a Google event without a few jabs of their own. Let’s keep our fingers crossed that Google will fire back at I/O later this month by introducing lots of exciting new features because it finally seems like Apple is bringing some real heat. Be sure to keep tabs on all the latest from Apple’s WWDC 2014 by heading to our friends at iSource.
+</text>
+</article>
+<article>
+<class>1</class>
+<title>Walnuts for Men</title>
+<text>
+Eating about 75g of walnut daily could help improve sperm quality. Researchers from the UCLA found that the men who ate walnuts experienced improvement in sperm vitality, motility, and morphology, as compared to those who didn’t. ‘Walnuts provide a particularly rich source of a-linolenic acid, a natural plant source of omega-3, which we suspect may have been responsible for the improvements we observed,’ said study researcher Catherine Carpenter. However, they are not sure if the findings work for men who have fertility problems. 
+</text>
+</article>
+<article>
+<class>1</class>
+<title>The Effects of Eating Late at Night</title>
+<text>
+Contrary to popular belief, eating late at night does not directly cause weight gain. Eating particular foods at night, however, can contribute to weight gain, according to dietitian Erica Blackburg. In an interview with ABC News published online in February 2003, Blackburg explained that people often resort to treat foods in the evening hours, such as ice cream or chips. Since these foods are dense in calories and low in nutrients, failing to stick to reasonable portion sizes can lead to excessive caloric intake and residual weight gain. If you then try to restrict calories the next day to compensate, the cycle is likely to repeat itself and lead to even more weight gain. 
+Eating calorie-dense foods late at night can enhance your wellness if you are underweight because of illness, medical treatment or reduced appetite. If this is the case, choose healthy calorie-dense foods, such as nuts, avocado or cheese, over processed snack foods. 
+</text>
+</article>
+<article>
+<class>1</class>
+<title>Bachelor's degree boosts health</title>
+<text>
+Higher education could help people in more ways besides finding a job. A new study from the Centers for Disease Control and Prevention (CDC) found educated Americans are less likely to be obese and suffer from chronic diseases, compared to those with less education.
+
+Health-care "scorecard" shows Americans get raw deal
+Obesity to affect 42% of Americans by 2030 with $550 billion in costs, say researchers
+
+The CDC's National Center for Health Statistics released its 35th annual report on health in the United States on Wednesday, which compiled data from government and private sector resources on Americans' health habits.
+
+This year's edition spotlighted the role socioeconomic status has in determining a person's health. It found between 2007 and 2010, heads of households with a bachelor's degree or more were less likely to have obese children, with rates around 11 percent for boys and 7 percent for girls. Meanwhile, in households where the head holds a high school education or less, 24 percent of boys and 22 percent of girls were obese.
+
+But what about the adults themselves? Twenty-five percent of women 25 and older who hold a bachelor's degree were obese, compared with 39 to 43 percent of women who had less education. In 2010, 31 percent of U.S. adults with a high school diploma or less were smokers, compared with 9 percent of adults who graduated with a bachelor's degree or higher.
+
+According to the report, on average in 2006, 25-year-old men without a high school diploma had a life expectancy 9.3 years less than those with a bachelor's degree or higher, while women without a high school diploma had a life expectancy 8.6 years less than those with a bachelor's degree or higher.
+
+"Highly educated people tend to have healthier behaviors, avoid unhealthy ones and have more access to medical care when they need it," the report's lead author, Amy Bernstein, a health services researcher for the National Center for Health Statistics, told USA Today. "All of these factors are associated with better health."
+
+People with less education are also less likely to have health insurance or good access to health care, Bernstein told HealthDay. Rates like these aren't exactly new either - previous CDC reports have also found health disparities related to levels of income and education.
+
+"It's frustrating to the public health community that this is not changing. We want to eliminate health disparities," she said.
+
+The report also found half of adults over 18 fail to meet federal recommendations for aerobic and muscle-strengthening activity, with older adults less likely to exercise than their 18-24 counterparts.
+</text>
+</article>
