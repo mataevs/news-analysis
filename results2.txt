@@ -1,0 +1,63 @@
+pos train samples = 208
+neg train samples = 164
+keywords = 2723
+1
+1
+1
+1
+1
+1
+1
+1
+0 1 failures = 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 1 failures = 2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1 0 failures = 3
+0
+0
+0
+0
+0
+1 0 failures = 4
+0
+0
+0
+1 0 failures = 5
+0
+0
+0
+1 0 failures = 6
+1 0 failures = 7
+0
+0
+0
+0
+0
+0
+0
+0
+1 0 failures = 8
+0
+0
+1 0 failures = 9
+0
+1 0 failures = 10
